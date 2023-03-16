@@ -1,0 +1,5 @@
+define service ZUI_ERRORCODE_907 {
+  expose ZC_ERRORCODE_S_907 as ErrorCodeAll;
+  expose ZC_ERRORCODE_907 as ErrorCode;
+  expose ZC_ERRORCODETEXT_907 as ErrorCodeText;
+}
